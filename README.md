@@ -4,4 +4,4 @@
 
 <h1> Kullanım Görüntüsü</h1>
 
-![](Animasyon.gif)
+![](Animation.gif)
